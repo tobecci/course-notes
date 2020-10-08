@@ -40,6 +40,22 @@ selector {
   }
 ```
 
+```css
+  #body{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+  }
+```
+
+```css
+  .body{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+  }
+```
+
 
 ### EXAMPLE OF SELECTORS
 ---
