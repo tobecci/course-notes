@@ -30,6 +30,16 @@ selector {
 }
 ```
 
+### LIVE USAGE
+
+```css
+  body{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+  }
+```
+
 
 ### EXAMPLE OF SELECTORS
 ---
