@@ -12,7 +12,11 @@
 * `=` used to set attributes
 
 * usages
-  * `<tag attribute-name="value">`
+  * `<tag id="button"> </tag>`
+
+> id here is a an attribute and its value is button
+>
+> tag can be any html tag
 
 
 # CSS
